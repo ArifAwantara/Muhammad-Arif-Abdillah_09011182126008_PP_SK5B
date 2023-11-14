@@ -1,2 +1,3 @@
 # Muhammad-Arif-Abdillah_09011182126008_PP_SK5B
-This is tugas pemrosesan paralel
+# 09011182126008
+# Tugas Pemrosesan Paralel
